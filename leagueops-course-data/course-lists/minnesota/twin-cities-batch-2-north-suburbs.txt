@@ -1,0 +1,43 @@
+# Twin Cities Metro — BATCH 2: Northern Suburbs
+# Format: Course Name | City, MN | Type | Holes
+# Region: Blaine, Coon Rapids, Anoka, Ham Lake, Lino Lakes, Hugo, Forest Lake, Rogers, Elk River
+# Courses: 37
+# Session prompt: "Process only BATCH 2 courses from the resource file."
+
+Bunker Hills Golf Course | Coon Rapids, MN | Public | 36
+Chomonix Golf Course | Lino Lakes, MN | Public | 18
+Coon Rapids City Golf Course | Coon Rapids, MN | Public | 9
+Golf at Island Lake | Shoreview, MN | Public | 18
+Island Lake Par 3 | Shoreview, MN | Public | 9
+Lino Lakes Golf Course | Lino Lakes, MN | Public | 18
+Rum River Hills Golf Club | Anoka, MN | Public | 18
+Viking Meadows Golf Course | Cedar, MN | Public | 18
+Anoka Golf Course | Anoka, MN | Public | 9
+Ham Lake Golf Club | Ham Lake, MN | Public | 18
+North Oaks Golf Club | North Oaks, MN | Private | 18
+Sundance Golf Club | Dayton, MN | Public | 18
+Wild Marsh Golf Club | Buffalo, MN | Public | 18
+Elk River Country Club | Elk River, MN | Public | 18
+Fox Hollow Golf Club | Rogers, MN | Public | 18
+The Links at Northfork | Ramsey, MN | Public | 18
+Monticello Country Club | Monticello, MN | Public | 18
+Highlands of Lino Lakes | Lino Lakes, MN | Public | 18
+Shamrock Golf Club | Corcoran, MN | Public | 18
+Rum River Country Club | Ramsey, MN | Public | 18
+Pheasant Acres Golf Club | Rogers, MN | Public | 18
+Green Haven Golf Course | Anoka, MN | Public | 18
+Mississippi Dunes Golf Links | Cottage Grove, MN | Public | 18
+Cedar Creek Golf Course | Cedar, MN | Public | 9
+Wild Iris Golf Club | Princeton, MN | Public | 18
+Brightwater Golf Course | Montrose, MN | Public | 18
+Crow River Golf Club | Hutchinson, MN | Public | 18
+Buffalo Golf Club | Buffalo, MN | Public | 9
+Falcon Ridge Golf Course | Stacy, MN | Public | 18
+Wildridge Golf Club | North Branch, MN | Public | 18
+Chisago Lakes Golf Course | Lindstrom, MN | Public | 18
+Franconia Golf Club | Shafer, MN | Public | 18
+North Branch Golf Course | North Branch, MN | Public | 9
+Aspen Golf Club | Cambridge, MN | Public | 18
+Cambridge Golf Club | Cambridge, MN | Public | 18
+Isanti Golf Course | Isanti, MN | Public | 9
+Perch Lake Golf Course | Harris, MN | Public | 9

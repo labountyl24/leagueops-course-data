@@ -1,0 +1,42 @@
+# Twin Cities Metro — BATCH 3: Western Suburbs
+# Format: Course Name | City, MN | Type | Holes
+# Region: Eden Prairie, Minnetonka, Chaska, Chanhassen, Shakopee, Jordan, Prior Lake, Maple Grove, Wayzata
+# Courses: 36
+# Session prompt: "Process only BATCH 3 courses from the resource file."
+
+Chaska Town Course | Chaska, MN | Public | 18
+Hazeltine National Golf Club | Chaska, MN | Private | 18
+Stonebrooke Golf Course | Shakopee, MN | Public | 18
+Ridges at Sand Creek | Jordan, MN | Public | 18
+The Wilds Golf Club | Prior Lake, MN | Public | 18
+Legends Club | Prior Lake, MN | Semi-Private | 18
+Meadows at Mystic Lake | Prior Lake, MN | Public | 18
+Rush Creek Golf Club | Maple Grove, MN | Public | 18
+TPC Twin Cities | Blaine, MN | Private | 18
+Bearpath Golf and Country Club | Eden Prairie, MN | Private | 18
+Bent Creek Golf Club | Eden Prairie, MN | Public | 18
+Olympic Hills Golf Club | Eden Prairie, MN | Private | 18
+Deer Run Golf Club | Victoria, MN | Public | 18
+Glen Lake Golf and Practice Center | Minnetonka, MN | Public | 9
+Dahlgreen Golf Club | Chaska, MN | Public | 18
+Cleary Lake Golf Course | Prior Lake, MN | Public | 18
+Majestic Oaks Golf Club | Ham Lake, MN | Public | 36
+Minnetonka Country Club | Minnetonka, MN | Private | 18
+Oak Marsh Golf Course | Oakdale, MN | Public | 18
+Wayzata Country Club | Wayzata, MN | Private | 18
+Waconia Golf Club | Waconia, MN | Public | 18
+Lakeview Golf of Orono | Long Lake, MN | Public | 18
+Pioneer Creek Golf Course | Maple Plain, MN | Public | 18
+Chanhassen Golf Course | Chanhassen, MN | Public | 9
+Minnesota Valley Country Club | Bloomington, MN | Private | 18
+Meadowbrook Golf Club | Hopkins, MN | Public | 9
+Interlachen Country Club | Edina, MN | Private | 18
+Minikahda Club | Minneapolis, MN | Private | 18
+Southview Country Club | West Saint Paul, MN | Private | 18
+Windsong Farm Golf Club | Independence, MN | Private | 18
+Brookview Golf | Golden Valley, MN | Public | 9
+B's on the River Golf Course | Watertown, MN | Public | 18
+Carver Golf Club | Carver, MN | Public | 9
+Baker National Golf Course | Medina, MN | Public | 18
+Edinburgh USA | Brooklyn Park, MN | Public | 18
+Braemar Golf Course | Edina, MN | Public | 18

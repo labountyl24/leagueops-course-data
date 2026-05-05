@@ -1,0 +1,44 @@
+# Twin Cities Metro — BATCH 1: Minneapolis & Saint Paul Proper
+# Format: Course Name | City, MN | Type | Holes
+# Region: Minneapolis, Saint Paul, and immediate inner-ring suburbs
+# Courses: 38
+# Session prompt: "Process only BATCH 1 courses from the resource file."
+
+Audubon Golf Course | Minneapolis, MN | Public | 9
+Bde Maka Ska Golf Course | Minneapolis, MN | Public | 9
+Columbia Golf Course | Minneapolis, MN | Public | 18
+Como Golf Course | Saint Paul, MN | Public | 9
+Gross National Golf Course | Minneapolis, MN | Public | 18
+Hiawatha Golf Course | Minneapolis, MN | Public | 18
+Highland National Golf Course | Saint Paul, MN | Public | 18
+Keller Golf Course | Maplewood, MN | Public | 18
+Meadowbrook Golf Course | Saint Louis Park, MN | Public | 18
+Phalen Golf Course | Saint Paul, MN | Public | 18
+Ramsay Golf Course | Saint Paul, MN | Public | 9
+Theodore Wirth Golf Course | Minneapolis, MN | Public | 18
+Webber Golf Course | Minneapolis, MN | Public | 9
+Brightwood Hills Golf Course | New Brighton, MN | Public | 9
+Goodrich Golf Course | Maplewood, MN | Public | 18
+Manitou Ridge Golf Course | White Bear Lake, MN | Public | 18
+Ponds at Battle Creek Golf Course | Maplewood, MN | Public | 18
+Roseville Cedarholm Golf Course | Roseville, MN | Public | 9
+Sawmill Golf Club | Stillwater, MN | Public | 18
+Tanners Brook Golf Club | Forest Lake, MN | Public | 18
+Dellwood Hills Golf Club | Dellwood, MN | Semi-Private | 18
+Oneka Ridge Golf Course | White Bear Township, MN | Public | 18
+Stoneridge Golf Club | Stillwater, MN | Public | 18
+Prestwick Golf Club | Woodbury, MN | Public | 18
+Woodbury Golf Course | Woodbury, MN | Public | 18
+Cottage Grove Ravine Golf Course | Cottage Grove, MN | Public | 9
+Eagle Valley Golf Course | Woodbury, MN | Public | 18
+River Oaks Municipal Golf Course | Cottage Grove, MN | Public | 18
+Baker National Golf Course | Medina, MN | Public | 18
+Edinburgh USA | Brooklyn Park, MN | Public | 18
+Braemar Golf Course | Edina, MN | Public | 18
+Brookland Golf Park | Brooklyn Park, MN | Public | 18
+Brookview Golf Course | Golden Valley, MN | Public | 18
+Francis A Gross Golf Course | Minneapolis, MN | Public | 18
+Mendakota Golf Course | Mendota Heights, MN | Private | 18
+Midland Hills Country Club | Roseville, MN | Private | 18
+Dwan Golf Club | Bloomington, MN | Public | 18
+Hyland Greens Golf Course | Bloomington, MN | Public | 18

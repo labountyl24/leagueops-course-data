@@ -1,0 +1,41 @@
+# Twin Cities Metro — BATCH 5: East Metro & Western Wisconsin Border
+# Format: Course Name | City, STATE | Type | Holes
+# Region: Woodbury, Stillwater, Oakdale, Lake Elmo, Hudson WI, River Falls WI, Somerset WI
+# Courses: 35
+# Session prompt: "Process only BATCH 5 courses from the resource file."
+
+Lake Elmo Park Reserve Golf Course | Lake Elmo, MN | Public | 9
+Oakdale Golf Club | Oakdale, MN | Public | 18
+Tartan Park Golf Course | Lake Elmo, MN | Public | 18
+Timber Creek Golf Course | Watertown, MN | Public | 18
+White Bear Yacht Club | White Bear Lake, MN | Private | 18
+Stillwater Country Club | Stillwater, MN | Private | 18
+Forest Lake Country Club | Forest Lake, MN | Private | 18
+Spring Lake Golf Course | Spring Lake Park, MN | Public | 9
+Dellwood Hills Golf Club | Dellwood, MN | Semi-Private | 18
+Oneka Ridge Golf Course | White Bear Township, MN | Public | 18
+Sawmill Golf Club | Stillwater, MN | Public | 18
+Stoneridge Golf Club | Stillwater, MN | Public | 18
+Prestwick Golf Club | Woodbury, MN | Public | 18
+Eagle Valley Golf Course | Woodbury, MN | Public | 18
+Woodbury Golf Course | Woodbury, MN | Public | 18
+River Oaks Municipal Golf Course | Cottage Grove, MN | Public | 18
+Cottage Grove Ravine Golf Course | Cottage Grove, MN | Public | 9
+Mississippi Dunes Golf Links | Cottage Grove, MN | Public | 18
+Troy Burne Golf Club | Hudson, WI | Public | 18
+Hudson Golf Club | Hudson, WI | Public | 18
+New Richmond Golf Club | New Richmond, WI | Public | 18
+St. Croix National Golf Club | Somerset, WI | Public | 18
+Clifton Hollow Golf Club | River Falls, WI | Public | 18
+Somerset Golf Club | Somerset, WI | Public | 18
+River Falls Golf Club | River Falls, WI | Public | 18
+Baldwin Hills Golf Course | Baldwin, WI | Public | 9
+Kilkarney Hills Golf Club | Rice Lake, WI | Public | 18
+Waumandee Country Club | Waumandee, WI | Public | 9
+Tanners Brook Golf Club | Forest Lake, MN | Public | 18
+Manitou Ridge Golf Course | White Bear Lake, MN | Public | 18
+Ponds at Battle Creek Golf Course | Maplewood, MN | Public | 18
+Goodrich Golf Course | Maplewood, MN | Public | 18
+Keller Golf Course | Maplewood, MN | Public | 18
+Oak Marsh Golf Course | Oakdale, MN | Public | 18
+Lakeview Golf Course | Two Harbors, MN | Public | 18
