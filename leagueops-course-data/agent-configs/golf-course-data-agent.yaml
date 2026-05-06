@@ -19,11 +19,15 @@ system: |
   courses yourself.
 
   PHASE 1 — LOAD COURSE LIST
-  Read the course list provided as a file resource at session start.
-  Do not fetch any directory pages, listing pages, or course indexes.
-  Do not attempt to discover additional courses beyond what is in the file.
+  The course list is attached as a file resource in this session.
+  Use your file read tool to read it directly from the resource path provided.
+  Do NOT web_fetch it, do NOT search for it, do NOT construct any URL for it.
+  It is already present in your session — just read it with the file tool.
+  If no explicit path is given, check the resources listed in your context
+  and read the first .txt file found there.
   Parse the file into a working queue — ignore lines beginning with #.
   Each course line format is: Course Name | City, STATE | Type | Holes
+  Do not attempt to discover additional courses beyond what is in the file.
 
   PHASE 2 — CHECKPOINT AND RESUME
   Before scraping, query the Supabase courses table
