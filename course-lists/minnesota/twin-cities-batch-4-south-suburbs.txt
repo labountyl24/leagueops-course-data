@@ -1,0 +1,41 @@
+# Twin Cities Metro — BATCH 4: Southern Suburbs
+# Format: Course Name | City, MN | Type | Holes
+# Region: Eagan, Burnsville, Apple Valley, Lakeville, Farmington, Hastings, Northfield, New Prague
+# Courses: 35
+# Session prompt: "Process only BATCH 4 courses from the resource file."
+
+Valleywood Golf Course | Apple Valley, MN | Public | 18
+Lebanon Hills Golf Course | Eagan, MN | Public | 9
+Mendota Heights Par 3 | Mendota Heights, MN | Public | 9
+Apple Valley Golf Course | Apple Valley, MN | Public | 9
+Crystal Lake Golf Club | Lakeville, MN | Public | 18
+Orchard Trace Golf Club | Burnsville, MN | Public | 9
+Brackett's Crossing Country Club | Lakeville, MN | Semi-Private | 18
+Lakeville Golf Acres | Lakeville, MN | Public | 9
+Inver Wood Golf Course | Inver Grove Heights, MN | Public | 18
+Emerald Greens Golf Course | Hastings, MN | Public | 18
+Bellwood Oaks Golf Course | Hastings, MN | Public | 18
+Spectator Golf Club | Hastings, MN | Public | 18
+Hidden Greens Golf Course | Hastings, MN | Public | 18
+Cannon Golf Club | Cannon Falls, MN | Public | 18
+Northfield Golf Club | Northfield, MN | Public | 18
+Faribault Country Club | Faribault, MN | Public | 18
+Owatonna Country Club | Owatonna, MN | Private | 18
+Willingers Golf Club | Northfield, MN | Public | 18
+Dundas Golf Course | Dundas, MN | Public | 9
+Southern Hills Golf Course | Farmington, MN | Public | 9
+Rich Valley Golf Club | Rosemount, MN | Public | 18
+Deer Creek Golf Course | Prior Lake, MN | Public | 18
+Dakota Pines Golf Course | South Saint Paul, MN | Public | 9
+Heritage Links Golf Club | Lakeville, MN | Public | 18
+Golf Farm | New Prague, MN | Public | 9
+New Prague Golf Club | New Prague, MN | Public | 18
+Red Wing Golf Course | Red Wing, MN | Public | 18
+Carriage Hills Country Club | Owatonna, MN | Public | 18
+Boulder Pointe Golf Club | Elko New Market, MN | Public | 18
+Mississippi National Golf Links | Reads Landing, MN | Public | 18
+The Jewel Golf Club | Lake City, MN | Public | 18
+Birnamwood Golf Course | Burnsville, MN | Public | 18
+Afton Alps Golf Course | Afton, MN | Public | 18
+Spring Creek Golf Course | Elgin, MN | Public | 9
+Big Woods Golf Course | Nerstrand, MN | Public | 9
